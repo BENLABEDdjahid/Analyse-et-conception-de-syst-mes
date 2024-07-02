@@ -1,0 +1,19 @@
+liens vers les diagrammes :
+
+diagramme de cas d'utilisation:
+
+https://lucid.app/lucidchart/e2e77cc5-9e64-44e8-95c0-02afa61201ba/edit?viewport_loc=-1499%2C-466%2C2677%2C1252%2C0_0&invitationId=inv_921461a8-f4dc-4d61-a63a-46c942ed1399
+
+diagramme d'activités:
+
+https://lucid.app/lucidchart/771f5599-0f1a-4cb4-bb57-6e6feab94177/edit?viewport_loc=-262%2C99%2C3736%2C1747%2C0_0&invitationId=inv_c43c2216-4b91-4806-8e88-ab7cd03a4c11
+
+diagramme de transitions 
+
+
+
+diagramme de séquences  
+
+https://lucid.app/lucidchart/8db523f6-9a36-4212-9e85-09e4b389ef4e/edit?viewport_loc=-522%2C42%2C2677%2C1252%2CeeCe8u-ZIJ.P&invitationId=inv_e7e75494-c633-46cf-b22f-1b23b24a21fa
+
+diagramme de classe 
