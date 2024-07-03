@@ -2,18 +2,20 @@ liens vers les diagrammes :
 
 diagramme de cas d'utilisation:
 
-https://lucid.app/lucidchart/e2e77cc5-9e64-44e8-95c0-02afa61201ba/edit?viewport_loc=-1499%2C-466%2C2677%2C1252%2C0_0&invitationId=inv_921461a8-f4dc-4d61-a63a-46c942ed1399
+https://lucid.app/lucidchart/9ec85238-f7c3-4b9a-a3c3-8e8b5a168e53/edit?invitationId=inv_71c88d31-8577-48ca-8dac-ca96e287d232
 
 diagramme d'activités:
 
-https://lucid.app/lucidchart/771f5599-0f1a-4cb4-bb57-6e6feab94177/edit?viewport_loc=-262%2C99%2C3736%2C1747%2C0_0&invitationId=inv_c43c2216-4b91-4806-8e88-ab7cd03a4c11
+https://lucid.app/lucidchart/143babbe-3c11-4dab-9c49-62cb08df57d6/edit?viewport_loc=-596%2C-16%2C3840%2C1671%2C0_0&invitationId=inv_750e3158-babc-4079-bfe8-4a6ab39c81bc
 
 diagramme de transitions 
 
-https://lucid.app/lucidchart/e6b38bcf-7658-4c0d-99c6-e8d4e76553fa/edit?viewport_loc=-136%2C-497%2C3046%2C1530%2C0_0&invitationId=inv_ac76c7a4-d25f-472c-856b-84e211eeb590
+https://lucid.app/lucidchart/e6b38bcf-7658-4c0d-99c6-e8d4e76553fa/edit?invitationId=inv_ac76c7a4-d25f-472c-856b-84e211eeb590
 
 diagramme de séquences  
 
-https://lucid.app/lucidchart/8db523f6-9a36-4212-9e85-09e4b389ef4e/edit?viewport_loc=-522%2C42%2C2677%2C1252%2CeeCe8u-ZIJ.P&invitationId=inv_e7e75494-c633-46cf-b22f-1b23b24a21fa
+https://lucid.app/lucidchart/8db523f6-9a36-4212-9e85-09e4b389ef4e/edit?invitationId=inv_e7e75494-c633-46cf-b22f-1b23b24a21fa
 
-diagramme de classe 
+diagramme de classes : 
+
+https://lucid.app/lucidchart/4ba86077-4f27-4218-8f54-660c154b1c67/edit?invitationId=inv_235a9d57-3ad6-4037-9379-03b12737bc46
